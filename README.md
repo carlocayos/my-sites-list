@@ -10,3 +10,5 @@ My Personal List of Important Sites
 [Application Development SaaS](https://github.com/carlocayos/my-sites-list/wiki/Application-Development-and-SaaS)<br>
 [System Design](https://github.com/carlocayos/my-sites-list/wiki/System-Design)<br>
 [Cloud and DevOps](https://github.com/carlocayos/my-sites-list/wiki/Cloud-and-DevOps)<br>
+[Machine Learning and AI](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-and-AI)<br>
+[Operating Systems](https://github.com/carlocayos/my-sites-list/wiki/Operating-Systems)<br>
