@@ -1,6 +1,6 @@
 # my-sites-list
 
-My Personal List of Important Sites
+My list of important sites, articles, and books. This is for my own tracking and reference, but feel free to browse if you are interested.
 
 ## Table of Contents
 [Computer Science](https://github.com/carlocayos/my-sites-list/wiki/Computer-Science)<br>
