@@ -5,7 +5,6 @@ My list of important sites, articles, and books. This is for my own tracking and
 ## Table of Contents
 [Computer Science](https://github.com/carlocayos/my-sites-list/wiki/Computer-Science)<br>
 [Programming](https://github.com/carlocayos/my-sites-list/wiki/Programming)<br>
-[School](https://github.com/carlocayos/my-sites-list/wiki/School)<br>
 [Web Tools](https://github.com/carlocayos/my-sites-list/wiki/Web-Tools)<br>
 [Application Development and SaaS](https://github.com/carlocayos/my-sites-list/wiki/Application-Development-and-SaaS)<br>
 [System Design](https://github.com/carlocayos/my-sites-list/wiki/System-Design)<br>
