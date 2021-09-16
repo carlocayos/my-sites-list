@@ -13,3 +13,4 @@ My list of important sites, articles, and books. This is for my own tracking and
 [Operating Systems](https://github.com/carlocayos/my-sites-list/wiki/Operating-Systems)<br>
 [Non-tech Books](https://github.com/carlocayos/my-sites-list/wiki/Books)<br>
 [Math](https://github.com/carlocayos/my-sites-list/wiki/Math)<br>
+[Non-Tech Books](https://github.com/carlocayos/my-sites-list/wiki/Non-Tech-Books)
