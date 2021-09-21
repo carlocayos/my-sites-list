@@ -11,5 +11,5 @@ My list of important sites, articles, and books. This is for my own tracking and
 [Cloud and DevOps](https://github.com/carlocayos/my-sites-list/wiki/Cloud-and-DevOps)<br>
 [Machine Learning and AI](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-and-AI)<br>
 [Operating Systems](https://github.com/carlocayos/my-sites-list/wiki/Operating-Systems)<br>
-[Math](https://github.com/carlocayos/my-sites-list/wiki/Math)<br>
+[Math for Machine Learning](https://github.com/carlocayos/my-sites-list/wiki/Math-for-Machine-Learning)<br>
 [Non-Tech Books](https://github.com/carlocayos/my-sites-list/wiki/Non-Tech-Books)<br>
