@@ -10,6 +10,9 @@ My list of important sites, articles, and books. This is for my own tracking and
 [System Design](https://github.com/carlocayos/my-sites-list/wiki/System-Design)<br>
 [Cloud and DevOps](https://github.com/carlocayos/my-sites-list/wiki/Cloud-and-DevOps)<br>
 [Machine Learning and AI](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-and-AI)<br>
-[Operating Systems](https://github.com/carlocayos/my-sites-list/wiki/Operating-Systems)<br>
 [Math for Machine Learning](https://github.com/carlocayos/my-sites-list/wiki/Math-for-Machine-Learning)<br>
+[Operating Systems](https://github.com/carlocayos/my-sites-list/wiki/Operating-Systems)<br>
 [Non-Tech Books](https://github.com/carlocayos/my-sites-list/wiki/Non-Tech-Books)<br>
+
+# Other from other sites
+* [List of highly rated books from Hacker News](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
