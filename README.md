@@ -2,6 +2,8 @@
 
 My list of important sites, articles, and books. This is for my own tracking and reference, but feel free to browse if you are interested.
 
+Go to the Wiki list - https://github.com/carlocayos/my-sites-list/wiki
+
 ## Table of Contents
 * [Computer Science](https://github.com/carlocayos/my-sites-list/wiki/Computer-Science)
 * [Programming](https://github.com/carlocayos/my-sites-list/wiki/Programming)
