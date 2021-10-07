@@ -12,6 +12,7 @@ Go to the Wiki list - https://github.com/carlocayos/my-sites-list/wiki
 * [System Design](https://github.com/carlocayos/my-sites-list/wiki/System-Design)
 * [Cloud and DevOps](https://github.com/carlocayos/my-sites-list/wiki/Cloud-and-DevOps)
 * [Machine Learning and AI](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-and-AI)
+  * [Reinforcement Learning](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-and-AI#reinforcement-learning)
 * [Math for Machine Learning](https://github.com/carlocayos/my-sites-list/wiki/Math-for-Machine-Learning)
 * [Operating Systems](https://github.com/carlocayos/my-sites-list/wiki/Operating-Systems)
 * [Non-Tech Books](https://github.com/carlocayos/my-sites-list/wiki/Non-Tech-Books)
