@@ -15,6 +15,7 @@ Go to the Wiki list - https://github.com/carlocayos/my-sites-list/wiki
   * [Reinforcement Learning](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-and-AI#reinforcement-learning)
 * [Math for Machine Learning](https://github.com/carlocayos/my-sites-list/wiki/Math-for-Machine-Learning)
 * [Operating Systems](https://github.com/carlocayos/my-sites-list/wiki/Operating-Systems)
+* [Computer Networks](https://github.com/carlocayos/my-sites-list/wiki/Computer-Networks)
 * [Non-Tech Books](https://github.com/carlocayos/my-sites-list/wiki/Non-Tech-Books)
 
 # Other from other sites
