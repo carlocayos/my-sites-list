@@ -19,7 +19,7 @@ Go to the Wiki list - https://github.com/carlocayos/my-sites-list/wiki
 * [Non-Tech Books](https://github.com/carlocayos/my-sites-list/wiki/Non-Tech-Books)
 
 # Development Tools
-* [Documentation](https://github.com/carlocayos/my-sites-list/wiki/Documentation)
+* [Documentation and Grokking Academic Papers](https://github.com/carlocayos/my-sites-list/wiki/Documentation-and-Grokking-Academic-Papers)
 
 # Other from other sites
 * [List of highly rated books from Hacker News](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
