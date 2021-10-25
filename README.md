@@ -14,6 +14,7 @@ Go to the Wiki list - https://github.com/carlocayos/my-sites-list/wiki
 * [Machine Learning and AI](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-and-AI)
   * [Reinforcement Learning](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-and-AI#reinforcement-learning)
   * [Deep Learning](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-and-AI#deep-learning)
+  * [General (shared across all ML categories)](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-and-AI#general)
 * [Math for Machine Learning](https://github.com/carlocayos/my-sites-list/wiki/Math-for-Machine-Learning)
 * [Operating Systems](https://github.com/carlocayos/my-sites-list/wiki/Operating-Systems)
 * [Computer Networks](https://github.com/carlocayos/my-sites-list/wiki/Computer-Networks)
