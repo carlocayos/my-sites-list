@@ -19,6 +19,7 @@ Go to the Wiki list - https://github.com/carlocayos/my-sites-list/wiki
 * [Operating Systems](https://github.com/carlocayos/my-sites-list/wiki/Operating-Systems)
 * [Computer Networks](https://github.com/carlocayos/my-sites-list/wiki/Computer-Networks)
 * [Non-Tech Books](https://github.com/carlocayos/my-sites-list/wiki/Non-Tech-Books)
+* [Machine Learning Development Tools Shortcut](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-Development-Tools-Shortcut)
 
 # Development Tools
 * [Documentation and Grokking Academic Papers](https://github.com/carlocayos/my-sites-list/wiki/Documentation-and-Grokking-Academic-Papers)
