@@ -5,7 +5,7 @@ My list of important sites, articles, books, development tools. This is for my o
 Go to the Wiki list - https://github.com/carlocayos/my-sites-list/wiki
 
 ## Table of Contents
-* Machine Learning and AI
+* ⭐ Machine Learning and AI
   * [Math for Machine Learning](https://github.com/carlocayos/my-sites-list/wiki/Math-for-Machine-Learning)
   * [Reinforcement Learning](https://github.com/carlocayos/my-sites-list/wiki/Reinforcement-Learning)
   * [Artificial Intelligence for Robotics](https://github.com/carlocayos/my-sites-list/wiki/Artificial-Intelligence-for-Robotics)
