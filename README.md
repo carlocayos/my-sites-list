@@ -5,24 +5,23 @@ My list of important sites, articles, books, development tools. This is for my o
 Go to the Wiki list - https://github.com/carlocayos/my-sites-list/wiki
 
 ## Table of Contents
+* Machine Learning and AI
+  * [Math for Machine Learning](https://github.com/carlocayos/my-sites-list/wiki/Math-for-Machine-Learning)
+  * [Reinforcement Learning](https://github.com/carlocayos/my-sites-list/wiki/Reinforcement-Learning)
+  * [Artificial Intelligence for Robotics](https://github.com/carlocayos/my-sites-list/wiki/Artificial-Intelligence-for-Robotics)
+  * [Supervised and Unsupervised Learning](https://github.com/carlocayos/my-sites-list/wiki/Supervised-and-Unsupervised-Learning)
+  * [Deep Learning](https://github.com/carlocayos/my-sites-list/wiki/Deep-Learning)
+  * [Applied AI/ML](https://github.com/carlocayos/my-sites-list/wiki/Applied-AI---ML)
+  * [Machine Learning Development Tools Shortcut](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-Development-Tools-Shortcut)
+  * [Miscellaneous Machine Learning](https://github.com/carlocayos/my-sites-list/wiki/Miscellaneous-Machine-Learning)  
 * [Computer Science](https://github.com/carlocayos/my-sites-list/wiki/Computer-Science)
 * [Programming](https://github.com/carlocayos/my-sites-list/wiki/Programming)
 * [Web Tools](https://github.com/carlocayos/my-sites-list/wiki/Web-Tools)
 * [Application Development and SaaS](https://github.com/carlocayos/my-sites-list/wiki/Application-Development-and-SaaS)
 * [System Design](https://github.com/carlocayos/my-sites-list/wiki/System-Design)
 * [Cloud and DevOps](https://github.com/carlocayos/my-sites-list/wiki/Cloud-and-DevOps)
-* [Machine Learning and AI](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-and-AI)
-  * [Reinforcement Learning](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-and-AI#reinforcement-learning)
-  * [Deep Learning](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-and-AI#deep-learning)
-  * [General (shared across all ML categories)](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-and-AI#general)
-* [Math for Machine Learning](https://github.com/carlocayos/my-sites-list/wiki/Math-for-Machine-Learning)
 * [Operating Systems](https://github.com/carlocayos/my-sites-list/wiki/Operating-Systems)
 * [Computer Networks](https://github.com/carlocayos/my-sites-list/wiki/Computer-Networks)
 * [Non-Tech Books](https://github.com/carlocayos/my-sites-list/wiki/Non-Tech-Books)
-* [Machine Learning Development Tools Shortcut](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-Development-Tools-Shortcut)
-
-# Development Tools
 * [Documentation and Grokking Academic Papers](https://github.com/carlocayos/my-sites-list/wiki/Documentation-and-Grokking-Academic-Papers)
-
-# Other from other sites
 * [List of highly rated books from Hacker News](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
