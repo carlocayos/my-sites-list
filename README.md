@@ -13,7 +13,7 @@ Go to the Wiki list - https://github.com/carlocayos/my-sites-list/wiki
   * [Deep Learning](https://github.com/carlocayos/my-sites-list/wiki/Deep-Learning)
   * [Applied AI/ML](https://github.com/carlocayos/my-sites-list/wiki/Applied-AI---ML)
   * [Machine Learning Development Tools Shortcut](https://github.com/carlocayos/my-sites-list/wiki/Machine-Learning-Development-Tools-Shortcut)
-  * [Miscellaneous Machine Learning](https://github.com/carlocayos/my-sites-list/wiki/Miscellaneous-Machine-Learning)  
+* ⭐ [Machine Learninig Programming Cheatsheets](https://github.com/carlocayos/machine_learning_programming_cheatsheets)
 * [Computer Science](https://github.com/carlocayos/my-sites-list/wiki/Computer-Science)
 * [Programming](https://github.com/carlocayos/my-sites-list/wiki/Programming)
 * [Web Tools](https://github.com/carlocayos/my-sites-list/wiki/Web-Tools)
